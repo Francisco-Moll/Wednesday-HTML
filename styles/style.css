@@ -1,0 +1,30 @@
+.special {
+    color: #ff0000;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+    display: inline-block;
+    background-color: darkcyan;
+    padding: 0.5rem 1rem;
+    margin: 0.25rem;
+    border-radius: 0.5rem;
+}
+
+#home {
+    background-color: antiquewhite;
+}
+
+#about {
+    background-color: antiquewhite;
+}
+
+#content {
+    background-color: antiquewhite;
+}
+
+#logo {
+    width: 12rem;
+    border-radius: 1rem;
+}
